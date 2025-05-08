@@ -102,7 +102,7 @@ export default function Scene({ sentence, flavor }: SkyDiveProps) {
         start: "top top",
         end: "+=2000",
         scrub: 1.5,
-        markers: true,
+        // markers: true,
       },
     });
 
